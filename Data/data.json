@@ -1,0 +1,77 @@
+[
+  {
+    "title": "The Power of Your Subconscious Mind",
+    "content": "explores the idea that our thoughts and beliefs have the power to shape our reality",
+    "author": "Dr.Joseph Murphy",
+    "datetime": "25-10-1963",
+    "id": 1,
+    "comments": [
+      {
+        "commentid": 1,
+        "content": "Excellent Book",
+        "author": "Praveen",
+        "datetime": "25-10-1995"
+      },
+      {
+        "commentid": 2,
+        "content": "Amazing...",
+        "author": "Kathir",
+        "datetime": "25-10-1995"
+      }
+    ]
+  },
+  {
+    "title": "Rich Dad Poor Dad ",
+    "content": "Story About Money Management",
+    "author": "Robert T. Kiyosaki",
+    "datetime": "25-10-1997 ",
+    "id": 2,
+    "comments": [
+      {
+        "commentid": 1,
+        "content": "my favrt Book",
+        "author": "Giri",
+        "datetime": "25-10-1995"
+      },
+      {
+        "commentid": 2,
+        "content": "thanks to author...",
+        "author": "Naveen",
+        "datetime": "25-10-1995"
+      }
+    ]
+  },
+  {
+    "title": "Atomic Habits ",
+    "content": "A comprehensive, practical guide on how to change your habits and get 1% better every day.",
+    "author": "James Clear",
+    "datetime": "30-10-2018",
+    "id": 3,
+    "comments": [
+      {
+        "commentid": 1,
+        "content": "Everyone should read this book",
+        "author": "Hari",
+        "datetime": "25-10-1995"
+      },
+      {
+        "commentid": 2,
+        "content": "Mani",
+        "author": "nice",
+        "datetime": "25-10-1995"
+      }
+    ]
+  },
+  {
+    "title": "Testing",
+    "content": "Testing",
+    "author": "Testing",
+    "datetime": "25-1-1999",
+    "id": 4,
+    "comments": []
+  }
+]
+
+
+
+
